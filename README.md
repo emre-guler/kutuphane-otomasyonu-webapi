@@ -1,2 +1,3 @@
-# kutuphane-otomasyonu-webapi
-Kendimi geliştirmek amacıyla yaptığım Kütüphane Otomasyonunun web-api'si.
+# Kütüphane Otomasyonu Web-API (Dotnet Core)
+Kendimi geliştirmek amacıyla yaptığım Kütüphane Otomasyonunun web-api'ı.
+.NET CORE - Entitiy Framework
